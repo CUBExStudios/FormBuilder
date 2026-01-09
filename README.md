@@ -23,21 +23,10 @@ Part of the **OpenGrowthStack** suite.
 
 ---
 
-## 🏗 Tech Stack
-| Layer | Tech |
-|-------|------|
-| Frontend | React + Tailwind |
-| Backend | Node.js (NestJS) |
-| Database | PostgreSQL |
-| Auth | JWT / OAuth |
-| Deployment | Docker |
-
----
-
 ## 📦 Installation (Local)
 
 ```bash
-git clone https://github.com/OpenGrowthStack/form-builder.git
+git clone https://github.com/CUBExStudios/form-builder.git
 cd form-builder
-docker-compose up
+
 
